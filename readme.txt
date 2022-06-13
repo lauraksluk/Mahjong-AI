@@ -1,0 +1,3 @@
+There are no external modules associated with this Mahjong AI game.
+All you need to do is run the file titled __init__.py!
+Just make sure you've downloaded the entire folder that contains all the Python files and the 2 images folders.
